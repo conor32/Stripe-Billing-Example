@@ -1,19 +1,7 @@
-# Prebuilt checkout page with subscriptions
+# Integration example of Stripe Billing with Product Selection, Checkout and Subscription Management pages. 
 
-Explore a full, working code sample of an integration with Stripe Checkout and the customer portal. The client- and server-side code redirects to a prebuilt payment page hosted on Stripe. Included are some basic build and run scripts you can use to start up the application.
+<img width="675" alt="Screen Shot 2024-05-11 at 8 34 29 PM" src="https://github.com/conor32/Stripe-Billing-Example/assets/151803050/355cca5c-792f-46dd-826a-723b3c26efae">
 
-## Running the sample
 
-1. Build the application
 
-~~~
-npm install
-~~~
-
-2. Run the application
-
-~~~
-npm start
-~~~
-
-3. Go to [http://localhost:3000/checkout](http://localhost:3000/checkout)
+<img width="1169" alt="Screen Shot 2024-05-11 at 8 36 29 PM" src="https://github.com/conor32/Stripe-Billing-Example/assets/151803050/265443a9-5e97-4de2-9876-115c2ea30cf4">
